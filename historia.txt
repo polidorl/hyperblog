@@ -1,3 +1,6 @@
 Esta es la historia de Lisbeth Polidor
-Estoy aprendiendoo desarrollo web
-Es ta es la primera version de este archivo.
+Estoy aprendiendo desarrollo web
+Esta es la primera version de este archivo.
+
+Plait y GitHub 
+Esta es la segunda version de este archivo.
